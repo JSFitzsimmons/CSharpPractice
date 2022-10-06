@@ -1,0 +1,13 @@
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.exe
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.deps.json
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.runtimeconfig.json
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.runtimeconfig.dev.json
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.dll
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.pdb
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.dll
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.pdb
+C:\Users\joshu\OneDrive\Documents\GitHub\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.genruntimeconfig.cache
